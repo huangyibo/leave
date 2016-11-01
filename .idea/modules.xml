@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/leave-dao/leave-dao.iml" filepath="$PROJECT_DIR$/leave-dao/leave-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leave-domain/leave-domain.iml" filepath="$PROJECT_DIR$/leave-domain/leave-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leave-root/leave-root.iml" filepath="$PROJECT_DIR$/leave-root/leave-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leave-service/leave-service.iml" filepath="$PROJECT_DIR$/leave-service/leave-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leave-utils/leave-utils.iml" filepath="$PROJECT_DIR$/leave-utils/leave-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leave-web/leave-web.iml" filepath="$PROJECT_DIR$/leave-web/leave-web.iml" />
+    </modules>
+  </component>
+</project>
